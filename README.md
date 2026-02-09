@@ -31,8 +31,10 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sayyedarham&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" height="180px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayyedarham&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayyedarham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayyedarham&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/>
