@@ -1,8 +1,9 @@
-# Hi there, I'm Arham Ali 👋 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI+/+ML+Engineer;Competitive+Programmer" alt="Typing SVG" />
-</p>
+<div align="center">
+  ## Hi there, I'm Arham Ali 👋
+  <p align = "center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer" alt="shreyvarshney"/>
+  </p>
+</div>
 
 ---
 
