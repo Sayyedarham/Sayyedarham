@@ -1,7 +1,7 @@
 # Hi there, I'm Arham Ali 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=CSIT+Student+@+2027+Batch;Full+Stack+Developer;AI+/+ML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Software +Engineer;Full+Stack+Developer (MERN +Stack);AI+/+ML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 ---
