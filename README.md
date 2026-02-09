@@ -1,9 +1,9 @@
-<div align="center">
-  ## Hi there, I'm Arham Ali 👋
+<h1 align="center">
+  Hi there, I'm Arham Ali 👋
   <p align = "center">
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer" alt="shreyvarshney"/>
   </p>
-</div>
+</h1>
 
 ---
 
