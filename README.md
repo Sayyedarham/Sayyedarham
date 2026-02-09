@@ -1,7 +1,7 @@
-# Hi there, I'm Arham Ali 👋 
+# Hi there, I'm [Your Name] 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI+Engineer;MLOps+Engineer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;AI+/+ML+Engineer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 ---
