@@ -13,19 +13,14 @@
 
 ---
 
-### 🚀 Tech Stack
-
-**Frontend & Mobile**
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,androidstudio)](https://skillicons.dev)
-
-**Backend & Databases**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,postgres,firebase)](https://skillicons.dev)
-
-**Languages & AI/ML**
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,sklearn)](https://skillicons.dev)
-
-**Tools & DevOps**
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,obsidian,vscode)](https://skillicons.dev)
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,react,androidstudio&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,python,cpp&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+</p>
 
 ---
 
