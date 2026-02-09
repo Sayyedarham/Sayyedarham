@@ -41,7 +41,7 @@
 
 ### 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/Sayyedarham/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/Sayyedarham/Sayyedarham/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 ---
