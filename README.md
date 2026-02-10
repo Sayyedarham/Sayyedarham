@@ -1,7 +1,9 @@
 ## Hi there, I'm Arham Ali 👋
   <p>
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer;AI+Engineer" alt="Intro"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer;AI+Engineer" alt="Intro"/>
   </p>
+
+---
 
 ### 💫 About Me
 - 🛠️ Currently building a **Travel Planning Application** using the MERN stack.
@@ -23,7 +25,7 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayyedarham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
