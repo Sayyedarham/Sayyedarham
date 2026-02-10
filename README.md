@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">
   Hi there, I'm Arham Ali 👋
   <p align = "center">
@@ -42,3 +43,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+</div>
