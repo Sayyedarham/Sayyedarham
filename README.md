@@ -1,10 +1,7 @@
-<div align="center">
-<h1 align="center">
-  Hi there, I'm Arham Ali 👋
-  <p align = "center">
+## Hi there, I'm Arham Ali 👋
+  <p>
     <img align="center" src="https://readme-typing-svg.herokuapp.com/?center=True&lines=Software+Developer;Python+Developer;Web+Developer;AI+Engineer" alt="Intro"/>
   </p>
-</h1>
 
 ### 💫 About Me
 - 🛠️ Currently building a **Travel Planning Application** using the MERN stack.
@@ -15,7 +12,7 @@
 ---
 
 ### 💻 Tech Stack
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,react,androidstudio&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,python,cpp&theme=dark" />
@@ -43,4 +40,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-</div>
