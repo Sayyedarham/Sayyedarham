@@ -9,7 +9,7 @@
 - 🛠️ Currently building a **Travel Planning Application** using the MERN stack.
 - 🤖 Deeply interested in **AI, Machine Learning, and MLOps**.
 - 📈 Active in **Competitive Programming**
-- 🏋️‍♂️ When not coding, you'll find me **Powerlifting** or practicing calisthenics.
+- 🏋️‍♂️ When not coding, you'll find me **Powerlifting**.
 
 ---
 
