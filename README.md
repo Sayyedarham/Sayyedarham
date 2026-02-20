@@ -26,10 +26,10 @@
 ### 📫 Connect with me
 <div style = "text-align:center;">
 <p>
-  <a href="(https://www.linkedin.com/in/sayyed-arham-ali-9a5999255/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="(https://www.linkedin.com/in/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">alt="LinkedIn" />
   </a>
-  <a href="mailto:sayyedarhamali@gmail.com">
+  <a href="mailto:xyz">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
