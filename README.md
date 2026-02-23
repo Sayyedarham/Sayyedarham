@@ -8,7 +8,7 @@
 ### 💫 About Me
 - 🛠️ Currently building a **Travel Planning Application** using the MERN stack.
 - 🤖 Deeply interested in **AI, Machine Learning, and MLOps**.
-- 📈 I Love solving **Leetcode**.
+- 📈 Love solving **Codeforces**.
 - 🏋️‍♂️ When not coding, you'll find me **Powerlifting**.
 
 ---
