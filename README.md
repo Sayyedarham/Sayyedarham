@@ -8,7 +8,7 @@
 - 🛠️ Currently building a **Task master** using the Go.
 - 🤖 Deeply interested in **AI, Machine Learning, and MLOps**.
 - 📈 Love solving **Codeforces**.
-- 🏋️‍♂️ When not coding, you'll find me **Powerlifting**.
+- 🏋️‍♂️ When not coding, you'll find me **Learning**.
 ---
 
 
